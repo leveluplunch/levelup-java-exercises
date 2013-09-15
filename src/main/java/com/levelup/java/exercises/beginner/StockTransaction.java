@@ -2,8 +2,6 @@ package com.levelup.java.exercises.beginner;
 
 public class StockTransaction {
 
-	// description
-	
 	// breaking it apart:
 	// define variables
 	// ask user to enter input 

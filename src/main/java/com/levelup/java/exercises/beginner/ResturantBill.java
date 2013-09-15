@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class ResturantBill {
 
+	// Description: 
+	// Write a program that computes the tax and tip for a restaurant bill. 
+	//	User is to enter the total amount of the bill. Tax is 6.75% of the bill. 
+//	The tip is 15% of the meal after tax has been added. The meal charge, tax, tip, and total should be printed on the screen..
+	
 	// Walk through:
 	// you will notice that we seperate the calcuation from the user input/output.  This way these methods could be reused by another program.
 	// define variables 
