@@ -11,7 +11,6 @@ import org.junit.Test;
  * @see <a href='http://www.leveluplunch.com/java/'></a>
  * 
  */
-
 public class CharacterCounterTest {
 	
 	@Test(expected=NullPointerException.class)
