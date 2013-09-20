@@ -2,6 +2,13 @@ package com.levelup.java.exercises.beginner;
 
 import java.util.Scanner;
 
+/**
+ * This program demonstrates a solution to the to the palindrome exercise
+ * 
+ * @author Justin Musgrove
+ * @see <a href='http://www.leveluplunch.com/java/'></a>
+ * 
+ */
 public class PalindromeDiscoverer {
 
 //	Write program in java that accepts users input and validates if the input is a palindrome.  
