@@ -27,7 +27,7 @@ public class StockTransaction {
 	
 	public static void main(String[] args) {
 		
-		double stockPurchase = stockPurcasePrice (NUM_SHARES, PURCHASE_PRICE);
+		double stockPurchase = stockPurchasePrice (NUM_SHARES, PURCHASE_PRICE);
 
 		double purchaseComm = brokersCommission (stockPurchase, BROKER_COMM_RATE) ;
 
@@ -65,7 +65,7 @@ public class StockTransaction {
 	 * @param purchasePrice
 	 * @return stock purchase price
 	 */
-	static double stockPurcasePrice (double numberOfShares, double purchasePrice) {
+	static double stockPurchasePrice (double numberOfShares, double purchasePrice) {
 		return numberOfShares * purchasePrice;
 	}
 	
