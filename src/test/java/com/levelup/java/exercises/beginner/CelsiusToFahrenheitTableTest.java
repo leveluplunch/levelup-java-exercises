@@ -8,7 +8,7 @@ import org.junit.Test;
  * Unit test for {@link CelsiusToFahrenheitTable}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/celsius-to-fahrenheit-table/'></a>
  * 
  */
 public class CelsiusToFahrenheitTableTest {
