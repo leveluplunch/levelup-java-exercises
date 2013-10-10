@@ -9,7 +9,7 @@ import org.junit.Test;
  * Unit test for {@link BodyMassIndex}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/excercises'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/body-mass-index/''></a>
  * 
  */
 public class BodyMassIndexTest {
