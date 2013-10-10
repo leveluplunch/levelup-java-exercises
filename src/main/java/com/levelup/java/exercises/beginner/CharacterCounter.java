@@ -10,20 +10,10 @@ import org.apache.commons.lang3.StringUtils;
  * This program demonstrates a solution to character counter exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercise'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/character-counter/'>Character counter</a>
  * 
  */
 public class CharacterCounter {
-
-	// Write a program that asks the user to enter a string and then asks the
-	// user to enter a character.
-	// The program should count and display the number of times that the
-	// specified character appears in the string.
-	
-	// level up:
-	// 1) instead of using apache common's StringUtils what the algroithm look like
-	// 2) validate users input
-	// 3) is there an easier way to output the information
 	
 
 	public static void main(String[] args) {
@@ -34,18 +24,17 @@ public class CharacterCounter {
 		// Create a Scanner object for keyboard input.
 		Scanner keyboard = new Scanner(System.in);
 
-		System.out.println("Enter a string.");
-		stringToSearch = keyboard.next();
-		
-		
 		// Get a string from the user.
-		System.out.println("Enter a letter contained in the string.");
-		stringToSearch = keyboard.next();
+		System.out.print("Enter a string:");
+		stringToSearch = keyboard.nextLine();
+
+		// 	Retrieve the letter to count.
+		System.out.print("Enter a letter contained in the string:");
+		letter = keyboard.nextLine();
 
 		// Get the letter to count.
 		double numberOfLettersInString = countLetters(stringToSearch, letter);
 		
-		// Retrieve the letter.
 		System.out.println("The letter " + letter + " appears " + numberOfLettersInString + " times in the string:\n" + stringToSearch);
 	}
 

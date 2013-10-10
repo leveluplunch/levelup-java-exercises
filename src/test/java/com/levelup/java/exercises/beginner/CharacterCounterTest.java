@@ -8,7 +8,7 @@ import org.junit.Test;
  * Unit test for {@link CharacterCounter}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/character-counter/'>Character counter</a>
  * 
  */
 public class CharacterCounterTest {
