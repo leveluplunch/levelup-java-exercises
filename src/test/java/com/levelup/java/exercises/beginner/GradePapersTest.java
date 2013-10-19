@@ -12,13 +12,14 @@ import com.google.common.collect.Lists;
  * Unit test for {@link GradePapers}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/grade-papers/'>Grade papers</a>
  * 
  */
 public class GradePapersTest {
 	
 	@Test
 	public void test_score_averages () {
+		
 		List<Integer> testScores = Lists.newArrayList(50, 50, 75, 75);
 		
 		double average = GradePapers.getTestScoreAverages(testScores);
@@ -28,6 +29,7 @@ public class GradePapersTest {
 	
 	@Test
 	public void letter_grade_a() {
+		
 		String letterGrade = GradePapers.getLetterGrade(92);
 		
 		assertEquals("A", letterGrade);
@@ -35,6 +37,7 @@ public class GradePapersTest {
 
 	@Test
 	public void letter_grade_b() {
+		
 		String letterGrade = GradePapers.getLetterGrade(82);
 		
 		assertEquals("B", letterGrade);
@@ -42,6 +45,7 @@ public class GradePapersTest {
 
 	@Test
 	public void letter_grade_c() {
+		
 		String letterGrade = GradePapers.getLetterGrade(72);
 		
 		assertEquals("C", letterGrade);
@@ -49,6 +53,7 @@ public class GradePapersTest {
 
 	@Test
 	public void letter_grade_d() {
+		
 		String letterGrade = GradePapers.getLetterGrade(62);
 		
 		assertEquals("D", letterGrade);
@@ -56,6 +61,7 @@ public class GradePapersTest {
 	
 	@Test
 	public void letter_grade_f() {
+		
 		String letterGrade = GradePapers.getLetterGrade(52);
 		
 		assertEquals("F", letterGrade);

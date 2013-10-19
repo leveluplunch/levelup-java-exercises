@@ -13,25 +13,10 @@ import com.google.common.math.DoubleMath;
  * This program demonstrates a solution to the to the grade papers exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercise'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/grade-papers/'>Grade papers</a>
  * 
  */
 public class GradePapers {
-
-	// Write a program that allows a user to enter in test scores.
-	// the program should display the average of the test scores and the letter
-	// grade that is assigned for the test score average.
-	// use the following grading system
-	// 91-100 A
-	// 81- 90 B
-	// 71-80 C
-	// 61-70 D
-	// Below 60 F
-	
-	// levelup 
-	// 1) display a letter grade for each score
-	// 2) add better rounding logic when getting a letter grade
-	// 3) add validation to users input
 
 	static RangeMap<Integer, String> gradeScale = TreeRangeMap.create();
 	static {
