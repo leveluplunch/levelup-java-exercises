@@ -8,40 +8,12 @@ import static com.google.common.base.Preconditions.*;
  * This program demonstrates a solution to the to the speed of sound exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/speed-of-sound/'>Speed of sound</a>
  * 
  */
 public class SpeedOfSound {
 
-	// The following table shows the approximate speed of sound in air, water,
-	// and steel.
-	//
-	// Medium Speed
-	// Air 1,100 feet per second
-	// Water 4,900 feet per second
-	// Steel 16,400 feet per second
-	//
-	// Write a program that displays a menu allowing the user to select air,
-	// water, or steel.
-	// After the user has made a selection, he or she should ask to enter the
-	// distance a sound wave will travel in the selected medium.
-	// The program will then display the amount of time it will take.( round the
-	// answer to 4 decimal places).
-	// Input validation: check that the user has selected one of the available
-	// choices from the menu.
-	// Do not accept distances less than 0.
-
-	// levelup:
-	// 1) Validate the users inputs for air/water/steel
-	// 2) Create ENUM OR constants for air/water/steel, be sure to update the test!
-	// 3) have the ability to show the feet per second in time.
-	// 4) adjust the getDistanceTraveledInSeconds -> getDistancedTraveled
-
-	// Create 2 variables for distance and medium
-	// Ask the user for input
-	//
-
-	public static void main(String[] args) {
+ 	public static void main(String[] args) {
 
 		double distance = 0.0; // Distance
 		String medium; // To hold "air", "water", or "steel"

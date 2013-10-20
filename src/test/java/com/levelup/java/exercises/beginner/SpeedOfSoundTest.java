@@ -8,7 +8,7 @@ import org.junit.Test;
  * Unit test for {@link SpeedOfSound}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/speed-of-sound/'>Speed of sound</a>
  * 
  */
 public class SpeedOfSoundTest {
