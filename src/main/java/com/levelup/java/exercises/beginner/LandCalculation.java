@@ -6,25 +6,11 @@ import java.util.Scanner;
  * This program demonstrates a solution to the to the Land Calculation exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercise'>Land calcuation</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/land-calculation/'>Land calcuation</a>
  * 
  */
 public class LandCalculation {
 
-	
-	//	One acre of land is equivalent to 43,560 square feet. Write a program that calculates the number of acres in a tract of land with 389,767 square feet.
-	
-	// Steps: 
-	// declare tract/acres as double 
-	// ask user for input 
-	// calculate acres
-	// Since feet per acre doesn't change it can be a constant
-	// 
-	
-	// TODO:  
-	// consider entering tract as another variable
-	// validation of tract
-	
 	private static final int FEET_PER_ACRE = 43560;
 
 	public static void main(String[] args) {
@@ -37,8 +23,8 @@ public class LandCalculation {
 		// Tell the user what the program will do.
 		System.out.println("This program will calculate number of acres.");
 
-		// Get the tract in feed.
-		System.out.print("Enter tract in feed: ");
+		// Get the tract in feet.
+		System.out.print("Enter tract in feet: ");
 		tract = keyboard.nextDouble();
 		
 		acres = calculateAcres(tract);
