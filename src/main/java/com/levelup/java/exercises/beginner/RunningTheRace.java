@@ -12,29 +12,10 @@ import com.google.common.collect.Lists;
  * This program demonstrates a solution to the to the Running the race exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/running-the-race/'>Running the race</a>
  * 
  */
 public class RunningTheRace {
-
-	// Description: 
-	// Write a program that asks for the names of runners and the time it took each of them to finish a race. 
-	// The program should display the names of the runners in the order that they finsihed.  Use a comparator 
-	// to and Collections.sort
-
-	
-// output:	
-//	Name	Time
-//	---------------------
-//	jack	2343.0
-//	jimmy	2344.0
-//	cindy	9384.0
-	
-	
-	// levelup:
-	// pretty up format
-	// fix bug w/ -1 exit
-	// format time in sec, minutes, hours
 
 	class Runner {
 		
@@ -49,7 +30,11 @@ public class RunningTheRace {
 		
 		@Override
 		public String toString() {
-			return Objects.toStringHelper(this).add("name", name).add("time to complete", timeToCompleteRace).toString();
+			
+			return Objects.toStringHelper(this)
+					.add("name", name)
+					.add("time to complete", timeToCompleteRace)
+					.toString();
 		}
 
 		public String getName() {
