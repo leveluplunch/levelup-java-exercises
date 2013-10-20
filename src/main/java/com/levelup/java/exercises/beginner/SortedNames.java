@@ -22,6 +22,7 @@ public class SortedNames {
 		// Create a Scanner object for keyboard input.
 		Scanner keyboard = new Scanner(System.in);
 		String name;
+		
 		// Get the user's selection.
 		do {
 			System.out.print("Enter name (-1 to exit): ");
