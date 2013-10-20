@@ -10,7 +10,7 @@ import org.junit.Test;
  * Unit test for {@link GuessingGame}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/guessing-game/'>Guessing game</a>
  * 
  */
 public class GuessingGameTest {
@@ -19,6 +19,5 @@ public class GuessingGameTest {
 	public void test_get_random_number () {
 		assertThat(GuessingGame.getRandomNumber(), is(lessThan(GuessingGame.MAX_NUMBER)));
 	}
-	
 
 }
