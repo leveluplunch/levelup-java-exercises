@@ -10,21 +10,10 @@ import com.google.common.collect.Lists;
  * This program demonstrates a solution to the to Sorted names.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/sorted-names/'>Sorted names</a>
  * 
  */
 public class SortedNames {
-	
-	
-//	Write a program that asks the user to enter three names, and then display the name sorted in ascending order. 
-//	For example if the user enterd "Charlie" , "Leslie" , and "Andy", the program would display
-//
-//	Andy
-//	Charlie
-//	Leslie
-	
-	// levelup:	
-	// add summary information
 	
 	public static void main(String[] args) {
 		
