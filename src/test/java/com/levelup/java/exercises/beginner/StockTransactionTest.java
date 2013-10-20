@@ -8,7 +8,7 @@ import org.junit.Test;
  * Unit test for {@link StockTransaction}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/excercises'>Stock Transaciton</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/stock-transaction/'>Stock transaction</a>
  * 
  */
 public class StockTransactionTest {
@@ -54,5 +54,4 @@ public class StockTransactionTest {
 		assertEquals(5000, StockTransaction.brokersCommission(100, 50), 0);
 	}
 
-	
 }

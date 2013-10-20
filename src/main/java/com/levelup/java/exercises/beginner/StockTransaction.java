@@ -1,23 +1,14 @@
 package com.levelup.java.exercises.beginner;
 
+/**
+ * This java example will demonstrate a stock transaction program.
+ * 
+ * @author Justin Musgrove
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/stock-transaction/'>Stock transaction</a>
+ * 
+ */
 public class StockTransaction {
 
-	// breaking it apart:
-	// define variables
-	// ask user to enter input 
-	// calculate methods
-	// user output
-	
-	// levelup: 
-	// formatting of decimal output
-	// modify the program to prompt the user to enter in number of shares, purchase price, selling price and broker rate
-	// have fun by adding a particular message for profit.  For instnace, if someone lost more than 15% in the sale
-	// 		of the stock, then display a message 'Rough day - want to come over for a beer?'.  Vise versa
-	//		in the event they had a killer day > 20 %, display a message 'Where we going out for dinner!'
-	//		include the % of gain or loss 
-	// similiar message to profit, if a user is using a broker that has a commission rate of > X%
-	//		'hey you have heard of tdameritrade, right?' 
-	
 	// Named constants
 	static final int NUM_SHARES = 1000; // Number of shares
 	static final double PURCHASE_PRICE = 32.87; // Purchase price per share
