@@ -2,27 +2,16 @@ package com.levelup.java.exercises.beginner;
 
 import java.util.Scanner;
 
+/**
+ * This java example will demonstrate calculating the restaurant bill
+ * which should include tax and tip.
+ * 
+ * @author Justin Musgrove
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/resturant-bill/'>restaurant bill</a>
+ * 
+ */
 public class ResturantBill {
 
-	// Description: 
-	// Write a program that computes the tax and tip for a restaurant bill. 
-	//	User is to enter the total amount of the bill. Tax is 6.75% of the bill. 
-//	The tip is 15% of the meal after tax has been added. The meal charge, tax, tip, and total should be printed on the screen..
-	
-	// Walk through:
-	// you will notice that we seperate the calcuation from the user input/output.  This way these methods could be reused by another program.
-	// define variables 
-	// ask user for charge of the meal 
-	// calculate values
-	// output calculated values
-	
-	// TODO: 
-	// allow tax rate and tip to be inputed by user
-	// validate charge of the meal 	
-	// make the output look pretty
-	// since tax rate is typically by state, create a collection to look up state tax - most likely it would be a map "WI", .0675
-	
-	
 	private static double TAX_RATE = 0.0675;
 	private static double TIP_PERCENT = .15;
 	

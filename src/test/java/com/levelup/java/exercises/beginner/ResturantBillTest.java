@@ -8,7 +8,7 @@ import org.junit.Test;
  * Unit test for {@link ResturantBill}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/excercises'>Resturant Bill</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/resturant-bill/'>restaurant bill</a>
  * 
  */
 public class ResturantBillTest {
