@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/resturant-bill/'>restaurant bill</a>
  * 
  */
-public class ResturantBill {
+public class RestaurantBill {
 
 	private static double TAX_RATE = 0.0675;
 	private static double TIP_PERCENT = .15;
