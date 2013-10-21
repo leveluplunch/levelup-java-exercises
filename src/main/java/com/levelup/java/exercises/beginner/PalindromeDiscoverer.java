@@ -6,20 +6,11 @@ import java.util.Scanner;
  * This program demonstrates a solution to the to the palindrome exercise
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/palindrome-discoverer/'>Palindrome discoverer</a>
  * 
  */
 public class PalindromeDiscoverer {
 
-//	Write program in java that accepts users input and validates if the input is a palindrome.  
-//	A http://en.wikipedia.org/wiki/Palindrome is a word that reads the same forwards as it does backwards.
-//	For this example we will consider a palindrome a palindrome without punctuation.
-	
-//	Levelup:
-//	validate input
-//	allow user to enter in more than one check
-//	a palindrome is often considered true excluding spaces or punctuation, enhance the program to punctuation 
-	
 	public static void main(String[] args) {
 		
 		// Create a Scanner object for keyboard input.
