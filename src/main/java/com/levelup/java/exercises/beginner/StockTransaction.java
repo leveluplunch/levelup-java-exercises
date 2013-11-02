@@ -4,7 +4,7 @@ package com.levelup.java.exercises.beginner;
  * This java example will demonstrate a stock transaction program.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/stock-transaction/'>Stock transaction</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/stock-transaction/'>Stock transaction</a>
  * 
  */
 public class StockTransaction {

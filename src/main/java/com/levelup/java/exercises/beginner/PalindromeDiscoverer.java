@@ -6,7 +6,7 @@ import java.util.Scanner;
  * This program demonstrates a solution to the to the palindrome exercise
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/palindrome-discoverer/'>Palindrome discoverer</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/palindrome-discoverer/'>Palindrome discoverer</a>
  * 
  */
 public class PalindromeDiscoverer {

@@ -12,7 +12,7 @@ import com.google.common.collect.Lists;
  * Unit test for {@link GradePapers}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/grade-papers/'>Grade papers</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/grade-papers/'>Grade papers</a>
  * 
  */
 public class GradePapersTest {

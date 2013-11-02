@@ -8,7 +8,7 @@ import static com.google.common.base.Preconditions.*;
  * This program demonstrates a solution to the to the speed of sound exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/speed-of-sound/'>Speed of sound</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/speed-of-sound/'>Speed of sound</a>
  * 
  */
 public class SpeedOfSound {

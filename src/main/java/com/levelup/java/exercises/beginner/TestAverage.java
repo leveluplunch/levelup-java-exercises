@@ -9,7 +9,7 @@ import java.util.Scanner;
  * test scores and find the average. 
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/test-average/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/test-average/'></a>
  * 
  */
 public class TestAverage {

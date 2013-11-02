@@ -6,7 +6,7 @@ import java.util.Scanner;
  * This program demonstrates a solution to the to the Land Calculation exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/land-calculation/'>Land calcuation</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/land-calculation/'>Land calcuation</a>
  * 
  */
 public class LandCalculation {

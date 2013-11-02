@@ -16,7 +16,7 @@ import org.junit.runners.Parameterized;
  * Unit test for {@link DiceGame}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/dice-game/'>Dice game</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/dice-game/'>Dice game</a>
  * 
  */
 @RunWith(Parameterized.class)

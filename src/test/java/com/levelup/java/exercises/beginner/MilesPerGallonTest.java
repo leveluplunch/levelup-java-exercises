@@ -8,7 +8,7 @@ import org.junit.Test;
  * Unit test for {@link MilesPerGallon}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/miles-per-gallon/'>Calculate Miles per Gallon</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/miles-per-gallon/'>Calculate Miles per Gallon</a>
  * 
  */
 public class MilesPerGallonTest {

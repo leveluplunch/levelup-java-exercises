@@ -6,7 +6,7 @@ import java.util.Scanner;
  * This program demonstrates a solution to the to the Body Mass Index exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/body-mass-index/'>Calculate Body Mass Index</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/body-mass-index/'>Calculate Body Mass Index</a>
  * 
  */
 public class BodyMassIndex {

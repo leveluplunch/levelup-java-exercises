@@ -4,7 +4,7 @@ package com.levelup.java.exercises.beginner;
  * This program demonstrates a solution to the celsius to fahrenheit table.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/celsius-to-fahrenheit-table/'>Celsius To Fahrenheit</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/celsius-to-fahrenheit-table/'>Celsius To Fahrenheit</a>
  * 
  */
 public class CelsiusToFahrenheitTable {

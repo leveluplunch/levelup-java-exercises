@@ -10,7 +10,7 @@ import org.junit.Test;
  * Unit test for {@link PalindromeDiscoverer}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/palindrome-discoverer/'>Palindrome discoverer</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/palindrome-discoverer/'>Palindrome discoverer</a>
  * 
  */
 public class PalindromeDiscovererTest {

@@ -13,7 +13,7 @@ import com.google.common.collect.Lists;
  * Unit test for {@link SlotMachineSimulation}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/slot-machine-simulation/'>Slot machine simulation</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/slot-machine-simulation/'>Slot machine simulation</a>
  * 
  */
 public class SlotMachineSimulationTest {

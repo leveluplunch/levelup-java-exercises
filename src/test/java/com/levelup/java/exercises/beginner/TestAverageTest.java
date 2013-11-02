@@ -11,7 +11,7 @@ import org.junit.Test;
  * Unit test for {@link TestAverage}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/test-average/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/test-average/'>Test average</a>
  * 
  */
 public class TestAverageTest {

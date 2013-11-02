@@ -7,7 +7,7 @@ import java.util.Scanner;
  * This program demonstrates a solution to the guessing game exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/guessing-game/'>Guessing game</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/guessing-game/'>Guessing game</a>
  * 
  */
 public class GuessingGame {

@@ -7,7 +7,7 @@ import java.util.Random;
  * This program demonstrates a solution to the dice game exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/dice-game/'>Dice game</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/dice-game/'>Dice game</a>
  * 
  */
 public class DiceGame {

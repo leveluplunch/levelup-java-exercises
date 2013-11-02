@@ -10,7 +10,7 @@ import com.google.common.collect.Lists;
  * This program demonstrates a solution to the to Sorted names.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/sorted-names/'>Sorted names</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/sorted-names/'>Sorted names</a>
  * 
  */
 public class SortedNames {

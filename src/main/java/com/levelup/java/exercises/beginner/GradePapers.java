@@ -13,7 +13,7 @@ import com.google.common.math.DoubleMath;
  * This program demonstrates a solution to the to the grade papers exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/grade-papers/'>Grade papers</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/grade-papers/'>Grade papers</a>
  * 
  */
 public class GradePapers {

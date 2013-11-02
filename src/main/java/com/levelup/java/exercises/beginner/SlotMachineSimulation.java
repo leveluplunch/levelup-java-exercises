@@ -19,7 +19,7 @@ import com.google.common.collect.Multisets;
  * This program demonstrates a solution to the slot machine simulation.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/slot-machine-simulation/'>Slot machine simulation</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/slot-machine-simulation/'>Slot machine simulation</a>
  * 
  */
 public class SlotMachineSimulation {

@@ -10,7 +10,7 @@ import org.apache.commons.lang3.StringUtils;
  * This program demonstrates a solution to character counter exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/character-counter/'>Character counter</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/character-counter/'>Character counter</a>
  * 
  */
 public class CharacterCounter {

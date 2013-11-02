@@ -10,7 +10,7 @@ import org.junit.Test;
  * Unit test for {@link GuessingGame}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/guessing-game/'>Guessing game</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/guessing-game/'>Guessing game</a>
  * 
  */
 public class GuessingGameTest {

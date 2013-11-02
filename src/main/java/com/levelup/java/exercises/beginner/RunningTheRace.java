@@ -12,7 +12,7 @@ import com.google.common.collect.Lists;
  * This program demonstrates a solution to the to the Running the race exercise.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/beginner/running-the-race/'>Running the race</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/running-the-race/'>Running the race</a>
  * 
  */
 public class RunningTheRace {
