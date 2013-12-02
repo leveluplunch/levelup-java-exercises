@@ -39,6 +39,8 @@ public class BodyMassIndex {
 		System.out.println("Your body mass index (BMI) is " + bmi);
 		
 		System.out.println(bmiDescription(bmi));
+		
+		keyboard.close();
 	}
 
 	/**

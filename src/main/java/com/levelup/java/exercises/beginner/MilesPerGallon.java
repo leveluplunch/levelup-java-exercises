@@ -36,6 +36,8 @@ public class MilesPerGallon {
 
 		// Display the miles-per-gallon.
 		System.out.print("The miles-per-gallon is " + mpg);
+		
+		keyboard.close();
 	}
 
 	/**

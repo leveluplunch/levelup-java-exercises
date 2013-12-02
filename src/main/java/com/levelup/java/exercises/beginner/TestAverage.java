@@ -40,6 +40,7 @@ public class TestAverage {
 		// output average
 		System.out.print("The average: " + averageScore(scores));
 		
+		keyboard.close();
 	}
 	
 	/**

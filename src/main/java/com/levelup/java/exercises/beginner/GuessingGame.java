@@ -60,6 +60,8 @@ public class GuessingGame {
 		System.out.println("Congratulations! You guessed it!");
 		System.out.println("I was thinking of the number " + randomNumber + ".");
 		System.out.println("You got it right in " + numberOfGuesses + " guesses.");
+		
+		keyboard.close();
 	}
 
 	/**

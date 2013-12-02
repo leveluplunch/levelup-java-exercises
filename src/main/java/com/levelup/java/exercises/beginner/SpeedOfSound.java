@@ -35,6 +35,7 @@ public class SpeedOfSound {
         // display output
         System.out.println("It will take " + distanceTravelled + " seconds.");
 		
+        keyboard.close();
 	}
 
 	/**

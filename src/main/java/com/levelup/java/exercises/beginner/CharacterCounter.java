@@ -36,6 +36,8 @@ public class CharacterCounter {
 		double numberOfLettersInString = countLetters(stringToSearch, letter);
 		
 		System.out.println("The letter " + letter + " appears " + numberOfLettersInString + " times in the string:\n" + stringToSearch);
+		
+		keyboard.close();
 	}
 
 	/**

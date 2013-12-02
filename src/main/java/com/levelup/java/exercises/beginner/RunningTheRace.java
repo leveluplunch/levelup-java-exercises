@@ -83,6 +83,8 @@ public class RunningTheRace {
 		for (Runner runner : race) {
 			System.out.println(runner.getName() + "\t" + runner.getTimeToCompleteRace());
 		}
+		
+		keyboard.close();
 	}
 
 	

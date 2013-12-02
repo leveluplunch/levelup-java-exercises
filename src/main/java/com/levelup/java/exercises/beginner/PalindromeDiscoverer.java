@@ -27,6 +27,8 @@ public class PalindromeDiscoverer {
 		} else {
 			System.out.print("Sorry the word or phrase is NOT a palindrome");
 		}
+		
+		keyboard.close();
 	}
 
 	

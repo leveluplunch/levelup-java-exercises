@@ -81,6 +81,8 @@ public class SlotMachineSimulation {
 
 		// Display the totals.
 		System.out.println("You won a total of $" + dollar.format(totalWon));
+		
+		keyboard.close();
 
 	}
 

@@ -31,6 +31,8 @@ public class LandCalculation {
 
 		// Display the results.
 		System.out.println("A tract of land with " + tract + " square feet has " + acres + " acres.");
+		
+		keyboard.close();
 	}
 
 	/**

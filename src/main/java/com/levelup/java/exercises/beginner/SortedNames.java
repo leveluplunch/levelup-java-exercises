@@ -40,6 +40,8 @@ public class SortedNames {
 		for (String name2 : names) {
 			System.out.println(name2);
 		}
+		
+		keyboard.close();
 	}
 
 }

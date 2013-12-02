@@ -67,6 +67,8 @@ public class DistanceConversion {
 			System.out.println();
 
 		} while (selection != 4);
+		
+		keyboard.close();
 
 	}
 

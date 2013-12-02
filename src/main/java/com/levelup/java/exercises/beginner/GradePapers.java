@@ -54,6 +54,8 @@ public class GradePapers {
 		
 		System.out.println("Average of test scores: " + averageOfAllTestScores);
 		System.out.println("Your overall average grade is: " + letterGrade);
+		
+		keyboard.close();
 	}
 	
 	/**
