@@ -10,7 +10,7 @@ Levelup Java exercises is a series of exercises that walk through problems.
 * [Google plus](https://plus.google.com/+Leveluplunch)
 * [Facebook](https://www.facebook.com/leveluplunch) 
 
-	
+	 
 ## License
 
 Level up lunch is released under version 2.0 of the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
