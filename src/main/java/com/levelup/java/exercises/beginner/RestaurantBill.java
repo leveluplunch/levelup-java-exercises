@@ -7,7 +7,7 @@ import java.util.Scanner;
  * which should include tax and tip.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/resturant-bill/'>Restaurant bill</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/restaurant-bill/'>Restaurant bill</a>
  * 
  */
 public class RestaurantBill {
