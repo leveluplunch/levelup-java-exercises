@@ -10,7 +10,8 @@ Levelup Java exercises is a series of exercises that walk through problems.
 * [leveluplunch.com](http://www.leveluplunch.com)
 * [Twitter](https://twitter.com/leveluplunch)
 * [Google plus](https://plus.google.com/+Leveluplunch)
-* [Facebook](https://www.facebook.com/leveluplunch) 
+* [Facebook](https://www.facebook.com/leveluplunch)
+* [Youtube channel](https://www.youtube.com/user/LevelUpLunch)
 
 	 
 ## License
