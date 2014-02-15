@@ -55,6 +55,9 @@ public class AverageRainfall {
 				+ calculateTotalRainFall(rainFall) + " inches");
 		System.out.println("Average monthly rainfall: "
 				+ calculateAverageRainFall(rainFall) + " inches");
+		
+		
+		keyboard.close();
 
 	}
 
