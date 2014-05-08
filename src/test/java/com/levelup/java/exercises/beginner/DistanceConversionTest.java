@@ -9,7 +9,7 @@ import org.junit.Test;
  * Unit test for {@link DistanceConversion}
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/distance-conversion/'>Distance conversion</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/distance-converter/'>Distance conversion</a>
  * 
  */
 public class DistanceConversionTest {
