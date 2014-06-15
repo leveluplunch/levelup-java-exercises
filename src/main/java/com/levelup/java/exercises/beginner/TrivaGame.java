@@ -16,7 +16,7 @@ import com.google.common.base.Splitter;
  * This java example will demonstrate a solution to the triva game.
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/trivia-game/'>Triva game</a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/trivia-game-program/'>Triva game</a>
  */
 public class TrivaGame {
 
