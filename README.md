@@ -1,9 +1,9 @@
-[levelup-java-exercises](http://www.leveluplunch.com/java/exercises/)
+levelup-java-exercises
 =====================
 
 [![Build Status](https://travis-ci.org/leveluplunch/levelup-java-exercises.png?branch=master)](https://travis-ci.org/leveluplunch/levelup-java-exercises)
 
-Levelup Java exercises is a series of exercises that walk through problems.
+Levelup [Java exercises](http://www.leveluplunch.com/java/exercises/) is a series of exercises that walk through problems.
 
 ## Staying in touch
 
