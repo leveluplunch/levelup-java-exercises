@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * This java example will demonstrate solution for bar chart exercise.
+ * This java exercise will demonstrate solution for bar chart exercise.
  * 
  * @author Justin Musgrove
  * @see <a href='http://www.leveluplunch.com/java/exercises/bar-chart/'>Bar
