@@ -17,6 +17,7 @@ import com.google.common.collect.Lists;
 public class PigLatin {
 
 	public static void main(String[] args) {
+		
 		// Create a Scanner object for keyboard input.
 		Scanner keyboard = new Scanner(System.in);
 
