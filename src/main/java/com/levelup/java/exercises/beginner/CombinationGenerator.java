@@ -17,7 +17,7 @@ public class CombinationGenerator {
 
 		Set<Integer> general = Sets.newHashSet(1, 2, 3, 4);
 
-		Set<Integer> combinations = generateCombinations(general, 3);
+		Set<Set<Integer>> combinations = generateCombinations(general, 3);
 		
 		System.out.println(combinations);
 	}
@@ -32,13 +32,13 @@ public class CombinationGenerator {
 	 * @return possible combinations
 	 * 
 	 */
-	public static Set<Integer> generateCombinations(
+	public static Set<Set<Integer>> generateCombinations(
 			Set<Integer> from,
 			int size) {
 
 		Set<Set<Integer>> elements = Sets.powerSet(from);
 
-		Set<Integer> possibleCombinations = elements.stream().filter(p -> p.size() == size)
+		Set<Set<Integer>> possibleCombinations = elements.stream().filter(p -> p.size() == size)
 				.collect(Collectors.toSet());
 
 		return possibleCombinations;
