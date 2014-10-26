@@ -4,6 +4,13 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/**
+ * This java exercises will demonstrate how to convert a letter to Morse code.
+ * 
+ * @author Justin Musgrove
+ * @see <a href='http://www.leveluplunch.com/java/exercises/morse-code-converter/'>Morse code converter</a>
+ * 
+ */
 public class MorseCodeConverter {
 
 	static Map<String, String> LETTER_TO_MORSE_CODE = new HashMap<>();
