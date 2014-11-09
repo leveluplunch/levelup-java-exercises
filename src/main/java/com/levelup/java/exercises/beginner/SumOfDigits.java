@@ -9,7 +9,7 @@ import java.util.stream.Stream;
  * 
  * @author Justin Musgrove
  * @see <a
- *      href='http://www.leveluplunch.com/java/exercises/sum-of-digits-string/'>Sum
+ *      href='http://www.leveluplunch.com/java/exercises/sum-of-digits-numbers-string/'>Sum
  *      of digits in string</a>
  * 
  */
