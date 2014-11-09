@@ -9,13 +9,13 @@ import java.util.StringTokenizer;
 import java.util.stream.Collectors;
 
 /**
- * This program demonstrates a solution to the distance conversion program
+ * This program demonstrates a solution to the Miscellaneous string operations
  * exercise.
  * 
  * @author Justin Musgrove
  * @see <a href=
- *      'http://www.leveluplunch.com/java/exercises/miscellaneous-string-operations/'>Miscellaneou
- *      s string operations</a>
+ *      'http://www.leveluplunch.com/java/exercises/miscellaneous-string-operations/'>Miscellaneo
+ *      u s string operations</a>
  * 
  */
 public class MiscellaneousStringOperations {
