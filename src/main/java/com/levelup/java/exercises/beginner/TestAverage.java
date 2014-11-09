@@ -5,11 +5,11 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * This java example will demonstrate asking the user for
+ * This java exercise will demonstrate asking the user for
  * test scores and find the average. 
  * 
  * @author Justin Musgrove
- * @see <a href='http://www.leveluplunch.com/java/exercises/test-average/'></a>
+ * @see <a href='http://www.leveluplunch.com/java/exercises/test-average/'>Find test average</a>
  * 
  */
 public class TestAverage {
