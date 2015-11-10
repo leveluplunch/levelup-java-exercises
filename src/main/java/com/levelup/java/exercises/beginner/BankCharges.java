@@ -21,9 +21,9 @@ public class BankCharges {
 		// define rages for checks
 		RangeMap<Integer, Double> checkFee = TreeRangeMap.create();
 		checkFee.put(Range.closed(0, 19), .1);
-		checkFee.put(Range.closed(20, 39), .8);
-		checkFee.put(Range.closed(40, 59), .6);
-		checkFee.put(Range.closed(60, Integer.MAX_VALUE), .4);
+		checkFee.put(Range.closed(20, 39), .08);
+		checkFee.put(Range.closed(40, 59), .06);
+		checkFee.put(Range.closed(60, Integer.MAX_VALUE), .04);
 
 		// Create a Scanner object for keyboard input.
 		Scanner keyboard = new Scanner(System.in);
